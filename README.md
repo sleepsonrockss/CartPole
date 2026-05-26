@@ -1,4 +1,4 @@
-# CartPole Environment - OpenAI Gymnasium
+# CartPole Environment
  
 ## Overview
  
