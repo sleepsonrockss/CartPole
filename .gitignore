@@ -1,0 +1,6 @@
+# macOS resource forks (created on non-Apple filesystems like exFAT)
+._*
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
